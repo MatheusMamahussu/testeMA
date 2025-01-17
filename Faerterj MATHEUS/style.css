@@ -1,0 +1,4944 @@
+.pagina-inicial {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.pagina-inicial .overlap-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 1024px;
+}
+
+.pagina-inicial .overlap {
+  position: relative;
+  width: 1464px;
+  height: 1145px;
+  top: -108px;
+  left: -6px;
+}
+
+.pagina-inicial .imagens-de-fundo {
+  position: absolute;
+  width: 1457px;
+  height: 671px;
+  top: 0;
+  left: 0;
+}
+
+.pagina-inicial .overlap-group {
+  position: absolute;
+  width: 724px;
+  height: 563px;
+  top: 108px;
+  left: 722px;
+}
+
+.pagina-inicial .foto {
+  position: absolute;
+  width: 724px;
+  height: 447px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.pagina-inicial .pexels {
+  position: absolute;
+  width: 724px;
+  height: 394px;
+  top: 169px;
+  left: 0;
+  object-fit: cover;
+}
+
+.pagina-inicial .div {
+  position: absolute;
+  width: 716px;
+  height: 436px;
+  top: 108px;
+  left: 6px;
+}
+
+.pagina-inicial .gettyimages {
+  position: absolute;
+  width: 716px;
+  height: 302px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.pagina-inicial .especialistas-brasil {
+  position: absolute;
+  width: 716px;
+  height: 267px;
+  top: 169px;
+  left: 0;
+  object-fit: cover;
+}
+
+.pagina-inicial .rectangle {
+  position: absolute;
+  width: 1440px;
+  height: 585px;
+  top: 443px;
+  left: 6px;
+  background-color: #ffffff;
+}
+
+.pagina-inicial .group-de-noticia {
+  top: 800px;
+  position: absolute;
+  width: 978px;
+  height: 128px;
+  left: 240px;
+}
+
+.pagina-inicial .overlap-2 {
+  position: relative;
+  width: 972px;
+  height: 128px;
+  background-color: #7d94d180;
+  border-radius: 19px;
+}
+
+.pagina-inicial .text-wrapper {
+  position: absolute;
+  width: 411px;
+  top: 13px;
+  left: 0;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-inicial .p {
+  position: absolute;
+  width: 172px;
+  top: 32px;
+  left: 0;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #0000008f;
+  font-size: 10px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.pagina-inicial .lorem-ipsum-dolor {
+  position: absolute;
+  width: 929px;
+  height: 49px;
+  top: 64px;
+  left: 21px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-inicial .overlap-group-wrapper {
+  top: 645px;
+  position: absolute;
+  width: 978px;
+  height: 128px;
+  left: 240px;
+}
+
+.pagina-inicial .overlap-3 {
+  position: relative;
+  width: 972px;
+  height: 128px;
+  background-color: #7d94d180;
+  border-radius: 20px;
+}
+
+.pagina-inicial .div-wrapper {
+  top: 490px;
+  position: absolute;
+  width: 978px;
+  height: 128px;
+  left: 240px;
+}
+
+.pagina-inicial .footer {
+  position: absolute;
+  width: 1458px;
+  height: 147px;
+  top: 998px;
+  left: 6px;
+  background-color: transparent;
+}
+
+.pagina-inicial .overlap-4 {
+  position: relative;
+  width: 1440px;
+  height: 134px;
+  background-color: #7d94d1;
+}
+
+.pagina-inicial .text-wrapper-2 {
+  position: absolute;
+  width: 626px;
+  top: 87px;
+  left: 810px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-inicial .text-wrapper-3 {
+  position: absolute;
+  width: 200px;
+  top: 36px;
+  left: 810px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-inicial .text-wrapper-4 {
+  position: absolute;
+  width: 176px;
+  top: 61px;
+  left: 516px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-inicial .text-wrapper-5 {
+  position: absolute;
+  width: 64px;
+  top: 61px;
+  left: 452px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-inicial .text-wrapper-6 {
+  position: absolute;
+  width: 100px;
+  top: 34px;
+  left: 452px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-inicial .text-wrapper-7 {
+  position: absolute;
+  width: 41px;
+  top: 86px;
+  left: 452px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-inicial .text-wrapper-8 {
+  position: absolute;
+  width: 269px;
+  top: 86px;
+  left: 493px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-inicial .line {
+  left: 770px;
+  position: absolute;
+  width: 1px;
+  height: 134px;
+  top: 0;
+  object-fit: cover;
+}
+
+.pagina-inicial .text-wrapper-9 {
+  position: absolute;
+  top: 36px;
+  left: 46px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.pagina-inicial .img {
+  left: 405px;
+  position: absolute;
+  width: 1px;
+  height: 134px;
+  top: 0;
+  object-fit: cover;
+}
+
+.pagina-inicial .text-wrapper-10 {
+  position: absolute;
+  width: 324px;
+  top: 60px;
+  left: 46px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-inicial .faeterj-rio-logo {
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  top: 187px;
+  left: 636px;
+  object-fit: cover;
+}
+
+.pagina-inicial .frame {
+  position: absolute;
+  width: 1109px;
+  height: 40px;
+  top: 418px;
+  left: 171px;
+}
+
+.pagina-inicial .overlap-5 {
+  position: relative;
+  width: 1440px;
+  height: 40px;
+  left: -165px;
+  background-color: #7d94d1;
+}
+
+.pagina-inicial .pesquisa {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 1173px;
+}
+
+.pagina-inicial .rectangle-2 {
+  position: absolute;
+  width: 101px;
+  height: 40px;
+  top: 1426px;
+  left: 555px;
+}
+
+.pagina-inicial .text-wrapper-11 {
+  position: absolute;
+  top: 13px;
+  left: 7px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-inicial .servios {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 1013px;
+}
+
+.pagina-inicial .text-wrapper-12 {
+  position: absolute;
+  top: 13px;
+  left: 26px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-inicial .ativ {
+  position: absolute;
+  width: 151px;
+  height: 40px;
+  top: 0;
+  left: 805px;
+}
+
+.pagina-inicial .rectangle-3 {
+  position: absolute;
+  width: 149px;
+  height: 40px;
+  top: 1426px;
+  left: 555px;
+}
+
+.pagina-inicial .text-wrapper-13 {
+  position: absolute;
+  top: 13px;
+  left: 14px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-inicial .estagio {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 645px;
+}
+
+.pagina-inicial .text-wrapper-14 {
+  position: absolute;
+  top: 13px;
+  left: 24px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-inicial .graduao {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 485px;
+}
+
+.pagina-inicial .text-wrapper-15 {
+  position: absolute;
+  top: 13px;
+  left: 19px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-inicial .institucional {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 325px;
+}
+
+.pagina-inicial .text-wrapper-16 {
+  position: absolute;
+  top: 13px;
+  left: 16px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-inicial .div-2 {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 165px;
+}
+
+.pagina-inicial .text-wrapper-17 {
+  position: absolute;
+  top: 13px;
+  left: 13px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.noticia-mais {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.noticia-mais .overlap-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 1024px;
+}
+
+.noticia-mais .overlap {
+  position: relative;
+  width: 1464px;
+  height: 1145px;
+  top: -108px;
+  left: -6px;
+}
+
+.noticia-mais .imagens-de-fundo {
+  position: absolute;
+  width: 1457px;
+  height: 671px;
+  top: 0;
+  left: 0;
+}
+
+.noticia-mais .overlap-group {
+  position: absolute;
+  width: 724px;
+  height: 563px;
+  top: 108px;
+  left: 722px;
+}
+
+.noticia-mais .foto {
+  position: absolute;
+  width: 724px;
+  height: 447px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.noticia-mais .pexels {
+  position: absolute;
+  width: 724px;
+  height: 394px;
+  top: 169px;
+  left: 0;
+  object-fit: cover;
+}
+
+.noticia-mais .div {
+  position: absolute;
+  width: 716px;
+  height: 436px;
+  top: 108px;
+  left: 6px;
+}
+
+.noticia-mais .gettyimages {
+  position: absolute;
+  width: 716px;
+  height: 302px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.noticia-mais .especialistas-brasil {
+  position: absolute;
+  width: 716px;
+  height: 267px;
+  top: 169px;
+  left: 0;
+  object-fit: cover;
+}
+
+.noticia-mais .rectangle {
+  position: absolute;
+  width: 1440px;
+  height: 585px;
+  top: 443px;
+  left: 6px;
+  background-color: #ffffff;
+}
+
+.noticia-mais .corpo-noticia {
+  position: absolute;
+  width: 978px;
+  height: 540px;
+  top: 458px;
+  left: 240px;
+}
+
+.noticia-mais .overlap-2 {
+  position: relative;
+  width: 972px;
+  height: 540px;
+  background-color: #a6a6a712;
+}
+
+.noticia-mais .text-wrapper {
+  position: absolute;
+  width: 411px;
+  top: 45px;
+  left: 0;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.noticia-mais .p {
+  position: absolute;
+  width: 172px;
+  top: 64px;
+  left: 0;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #0000008f;
+  font-size: 10px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.noticia-mais .lorem-ipsum-dolor {
+  position: absolute;
+  width: 929px;
+  height: 402px;
+  top: 96px;
+  left: 21px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.noticia-mais .footer {
+  position: absolute;
+  width: 1458px;
+  height: 147px;
+  top: 998px;
+  left: 6px;
+  background-color: transparent;
+}
+
+.noticia-mais .overlap-3 {
+  position: relative;
+  width: 1440px;
+  height: 134px;
+  background-color: #7d94d1;
+}
+
+.noticia-mais .text-wrapper-2 {
+  position: absolute;
+  width: 626px;
+  top: 87px;
+  left: 810px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.noticia-mais .text-wrapper-3 {
+  position: absolute;
+  width: 200px;
+  top: 36px;
+  left: 810px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.noticia-mais .text-wrapper-4 {
+  position: absolute;
+  width: 176px;
+  top: 61px;
+  left: 516px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.noticia-mais .text-wrapper-5 {
+  position: absolute;
+  width: 64px;
+  top: 61px;
+  left: 452px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.noticia-mais .text-wrapper-6 {
+  position: absolute;
+  width: 100px;
+  top: 34px;
+  left: 452px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.noticia-mais .text-wrapper-7 {
+  position: absolute;
+  width: 41px;
+  top: 86px;
+  left: 452px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.noticia-mais .text-wrapper-8 {
+  position: absolute;
+  width: 269px;
+  top: 86px;
+  left: 493px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.noticia-mais .line {
+  left: 770px;
+  position: absolute;
+  width: 1px;
+  height: 134px;
+  top: 0;
+  object-fit: cover;
+}
+
+.noticia-mais .text-wrapper-9 {
+  position: absolute;
+  top: 36px;
+  left: 46px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.noticia-mais .img {
+  left: 405px;
+  position: absolute;
+  width: 1px;
+  height: 134px;
+  top: 0;
+  object-fit: cover;
+}
+
+.noticia-mais .text-wrapper-10 {
+  position: absolute;
+  width: 324px;
+  top: 60px;
+  left: 46px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.noticia-mais .faeterj-rio-logo {
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  top: 187px;
+  left: 636px;
+  object-fit: cover;
+}
+
+.noticia-mais .frame {
+  position: absolute;
+  width: 1109px;
+  height: 40px;
+  top: 418px;
+  left: 171px;
+}
+
+.noticia-mais .overlap-4 {
+  position: relative;
+  width: 1440px;
+  height: 40px;
+  left: -165px;
+  background-color: #7d94d1;
+}
+
+.noticia-mais .pesquisab {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 1173px;
+}
+
+.noticia-mais .rectangle-2 {
+  position: absolute;
+  width: 101px;
+  height: 40px;
+  top: 1426px;
+  left: -1080px;
+}
+
+.noticia-mais .text-wrapper-11 {
+  position: absolute;
+  top: 13px;
+  left: 7px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.noticia-mais .serviosb {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 1013px;
+}
+
+.noticia-mais .text-wrapper-12 {
+  position: absolute;
+  top: 13px;
+  left: 26px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.noticia-mais .ativb {
+  position: absolute;
+  width: 151px;
+  height: 40px;
+  top: 0;
+  left: 805px;
+}
+
+.noticia-mais .rectangle-3 {
+  position: absolute;
+  width: 149px;
+  height: 40px;
+  top: 1426px;
+  left: -1080px;
+}
+
+.noticia-mais .text-wrapper-13 {
+  position: absolute;
+  top: 13px;
+  left: 14px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.noticia-mais .estagiob {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 645px;
+}
+
+.noticia-mais .text-wrapper-14 {
+  position: absolute;
+  top: 13px;
+  left: 24px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.noticia-mais .graduaob {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 485px;
+}
+
+.noticia-mais .text-wrapper-15 {
+  position: absolute;
+  top: 13px;
+  left: 19px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.noticia-mais .institucionalb {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 325px;
+}
+
+.noticia-mais .text-wrapper-16 {
+  position: absolute;
+  top: 13px;
+  left: 16px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.noticia-mais .pagina-inicialb {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 165px;
+}
+
+.noticia-mais .text-wrapper-17 {
+  position: absolute;
+  top: 13px;
+  left: 13px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.quem-somos {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.quem-somos .overlap-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 1024px;
+}
+
+.quem-somos .overlap {
+  position: relative;
+  width: 1464px;
+  height: 1145px;
+  top: -108px;
+  left: -6px;
+}
+
+.quem-somos .imagens-de-fundo {
+  position: absolute;
+  width: 1457px;
+  height: 671px;
+  top: 0;
+  left: 0;
+}
+
+.quem-somos .overlap-group {
+  position: absolute;
+  width: 724px;
+  height: 563px;
+  top: 108px;
+  left: 722px;
+}
+
+.quem-somos .foto {
+  position: absolute;
+  width: 724px;
+  height: 447px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.quem-somos .pexels {
+  position: absolute;
+  width: 724px;
+  height: 394px;
+  top: 169px;
+  left: 0;
+  object-fit: cover;
+}
+
+.quem-somos .div {
+  position: absolute;
+  width: 716px;
+  height: 436px;
+  top: 108px;
+  left: 6px;
+}
+
+.quem-somos .gettyimages {
+  position: absolute;
+  width: 716px;
+  height: 302px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.quem-somos .especialistas-brasil {
+  position: absolute;
+  width: 716px;
+  height: 267px;
+  top: 169px;
+  left: 0;
+  object-fit: cover;
+}
+
+.quem-somos .rectangle {
+  position: absolute;
+  width: 1440px;
+  height: 585px;
+  top: 443px;
+  left: 6px;
+  background-color: #ffffff;
+}
+
+.quem-somos .corpo-noticia {
+  position: absolute;
+  width: 976px;
+  height: 540px;
+  top: 458px;
+  left: 240px;
+}
+
+.quem-somos .overlap-2 {
+  position: relative;
+  width: 972px;
+  height: 540px;
+  background-color: #a6a6a712;
+}
+
+.quem-somos .a-FAETERJ-rio {
+  position: absolute;
+  width: 929px;
+  top: 96px;
+  left: 21px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.quem-somos .text-wrapper {
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+}
+
+.quem-somos .span {
+  font-weight: 600;
+  font-style: italic;
+}
+
+.quem-somos .text-wrapper-2 {
+  font-style: italic;
+}
+
+.quem-somos .text-wrapper-3 {
+  position: absolute;
+  width: 250px;
+  top: 45px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.quem-somos .footer {
+  position: absolute;
+  width: 1458px;
+  height: 147px;
+  top: 998px;
+  left: 6px;
+  background-color: transparent;
+}
+
+.quem-somos .overlap-3 {
+  position: relative;
+  width: 1440px;
+  height: 134px;
+  background-color: #7d94d1;
+}
+
+.quem-somos .p {
+  position: absolute;
+  width: 626px;
+  top: 87px;
+  left: 810px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.quem-somos .text-wrapper-4 {
+  position: absolute;
+  width: 200px;
+  top: 36px;
+  left: 810px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.quem-somos .text-wrapper-5 {
+  position: absolute;
+  width: 176px;
+  top: 61px;
+  left: 516px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.quem-somos .text-wrapper-6 {
+  position: absolute;
+  width: 64px;
+  top: 61px;
+  left: 452px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.quem-somos .text-wrapper-7 {
+  position: absolute;
+  width: 100px;
+  top: 34px;
+  left: 452px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.quem-somos .text-wrapper-8 {
+  position: absolute;
+  width: 41px;
+  top: 86px;
+  left: 452px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.quem-somos .text-wrapper-9 {
+  position: absolute;
+  width: 269px;
+  top: 86px;
+  left: 493px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.quem-somos .line {
+  left: 770px;
+  position: absolute;
+  width: 1px;
+  height: 134px;
+  top: 0;
+  object-fit: cover;
+}
+
+.quem-somos .text-wrapper-10 {
+  position: absolute;
+  top: 36px;
+  left: 46px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.quem-somos .img {
+  left: 405px;
+  position: absolute;
+  width: 1px;
+  height: 134px;
+  top: 0;
+  object-fit: cover;
+}
+
+.quem-somos .text-wrapper-11 {
+  position: absolute;
+  width: 324px;
+  top: 60px;
+  left: 46px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.quem-somos .faeterj-rio-logo {
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  top: 187px;
+  left: 636px;
+  object-fit: cover;
+}
+
+.quem-somos .frame {
+  position: absolute;
+  width: 1109px;
+  height: 40px;
+  top: 418px;
+  left: 171px;
+}
+
+.quem-somos .overlap-4 {
+  position: relative;
+  width: 1440px;
+  height: 40px;
+  left: -165px;
+  background-color: #7d94d1;
+}
+
+.quem-somos .pesquisa {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 1173px;
+}
+
+.quem-somos .rectangle-2 {
+  position: absolute;
+  width: 101px;
+  height: 40px;
+  top: 184px;
+  left: 555px;
+}
+
+.quem-somos .text-wrapper-12 {
+  position: absolute;
+  top: 13px;
+  left: 7px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.quem-somos .servios {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 1013px;
+}
+
+.quem-somos .text-wrapper-13 {
+  position: absolute;
+  top: 13px;
+  left: 26px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.quem-somos .ativ {
+  position: absolute;
+  width: 151px;
+  height: 40px;
+  top: 0;
+  left: 805px;
+}
+
+.quem-somos .rectangle-3 {
+  position: absolute;
+  width: 149px;
+  height: 40px;
+  top: 184px;
+  left: 555px;
+}
+
+.quem-somos .text-wrapper-14 {
+  position: absolute;
+  top: 13px;
+  left: 14px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.quem-somos .estagio {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 645px;
+}
+
+.quem-somos .text-wrapper-15 {
+  position: absolute;
+  top: 13px;
+  left: 24px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.quem-somos .graduao {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 485px;
+}
+
+.quem-somos .text-wrapper-16 {
+  position: absolute;
+  top: 13px;
+  left: 19px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.quem-somos .institucional {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 325px;
+}
+
+.quem-somos .text-wrapper-17 {
+  position: absolute;
+  top: 13px;
+  left: 16px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.quem-somos .pagina-inicial {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 165px;
+}
+
+.quem-somos .text-wrapper-18 {
+  position: absolute;
+  top: 13px;
+  left: 13px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.quem-somos .div-2 {
+    position: absolute;
+    width: 103px;
+    height: 40px;
+    top: 0;
+    left: 165px;
+}.corpo-docente {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.corpo-docente .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 1158px;
+  position: relative;
+}
+
+.corpo-docente .overlap {
+  position: absolute;
+  width: 1457px;
+  height: 1132px;
+  top: -108px;
+  left: -6px;
+}
+
+.corpo-docente .imagens-de-fundo {
+  position: absolute;
+  width: 1457px;
+  height: 671px;
+  top: 0;
+  left: 0;
+}
+
+.corpo-docente .overlap-group {
+  position: absolute;
+  width: 724px;
+  height: 563px;
+  top: 108px;
+  left: 722px;
+}
+
+.corpo-docente .foto {
+  position: absolute;
+  width: 724px;
+  height: 447px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.corpo-docente .pexels {
+  position: absolute;
+  width: 724px;
+  height: 394px;
+  top: 169px;
+  left: 0;
+  object-fit: cover;
+}
+
+.corpo-docente .overlap-2 {
+  position: absolute;
+  width: 716px;
+  height: 436px;
+  top: 108px;
+  left: 6px;
+}
+
+.corpo-docente .gettyimages {
+  position: absolute;
+  width: 716px;
+  height: 302px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.corpo-docente .especialistas-brasil {
+  position: absolute;
+  width: 716px;
+  height: 267px;
+  top: 169px;
+  left: 0;
+  object-fit: cover;
+}
+
+.corpo-docente .rectangle {
+  position: absolute;
+  width: 1440px;
+  height: 585px;
+  top: 443px;
+  left: 6px;
+  background-color: #ffffff;
+}
+
+.corpo-docente .corpo-noticia {
+  position: absolute;
+  width: 976px;
+  height: 674px;
+  top: 458px;
+  left: 240px;
+}
+
+.corpo-docente .overlap-3 {
+  position: relative;
+  width: 972px;
+  height: 674px;
+  background-color: #a6a6a712;
+}
+
+.corpo-docente .prof-alfredo {
+  position: absolute;
+  width: 929px;
+  top: 111px;
+  left: 21px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.corpo-docente .text-wrapper {
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+}
+
+.corpo-docente .span {
+  text-decoration: underline;
+}
+
+.corpo-docente .text-wrapper-2 {
+  position: absolute;
+  width: 250px;
+  top: 53px;
+  left: 0;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.corpo-docente .faeterj-rio-logo {
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  top: 187px;
+  left: 636px;
+  object-fit: cover;
+}
+
+.corpo-docente .frame {
+  position: absolute;
+  width: 1109px;
+  height: 40px;
+  top: 418px;
+  left: 171px;
+}
+
+.corpo-docente .overlap-4 {
+  position: relative;
+  width: 1440px;
+  height: 40px;
+  left: -165px;
+  background-color: #7d94d1;
+}
+
+.corpo-docente .pesquisa {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 1173px;
+}
+
+.corpo-docente .img {
+  position: absolute;
+  width: 101px;
+  height: 40px;
+  top: -1058px;
+  left: 555px;
+}
+
+.corpo-docente .text-wrapper-3 {
+  position: absolute;
+  top: 13px;
+  left: 7px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.corpo-docente .servios {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 1013px;
+}
+
+.corpo-docente .text-wrapper-4 {
+  position: absolute;
+  top: 13px;
+  left: 26px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.corpo-docente .ativ {
+  position: absolute;
+  width: 151px;
+  height: 40px;
+  top: 0;
+  left: 805px;
+}
+
+.corpo-docente .rectangle-2 {
+  position: absolute;
+  width: 149px;
+  height: 40px;
+  top: -1058px;
+  left: 555px;
+}
+
+.corpo-docente .text-wrapper-5 {
+  position: absolute;
+  top: 13px;
+  left: 14px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.corpo-docente .estagio {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 645px;
+}
+
+.corpo-docente .text-wrapper-6 {
+  position: absolute;
+  top: 13px;
+  left: 24px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.corpo-docente .graduao {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 485px;
+}
+
+.corpo-docente .text-wrapper-7 {
+  position: absolute;
+  top: 13px;
+  left: 19px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.corpo-docente .institucional {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 325px;
+}
+
+.corpo-docente .text-wrapper-8 {
+  position: absolute;
+  top: 13px;
+  left: 16px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.corpo-docente .pagina-inicialc {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 165px;
+}
+
+.corpo-docente .text-wrapper-9 {
+  position: absolute;
+  top: 13px;
+  left: 13px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.corpo-docente .footer {
+  position: absolute;
+  width: 1458px;
+  height: 134px;
+  top: 1024px;
+  left: 0;
+  background-color: transparent;
+}
+
+.corpo-docente .overlap-5 {
+  position: relative;
+  width: 1440px;
+  height: 134px;
+  background-color: #7d94d1;
+}
+
+.corpo-docente .p {
+  position: absolute;
+  width: 626px;
+  top: 87px;
+  left: 810px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.corpo-docente .text-wrapper-10 {
+  position: absolute;
+  width: 200px;
+  top: 36px;
+  left: 810px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.corpo-docente .text-wrapper-11 {
+  position: absolute;
+  width: 176px;
+  top: 61px;
+  left: 516px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.corpo-docente .text-wrapper-12 {
+  position: absolute;
+  width: 64px;
+  top: 61px;
+  left: 452px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.corpo-docente .text-wrapper-13 {
+  position: absolute;
+  width: 100px;
+  top: 34px;
+  left: 452px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.corpo-docente .text-wrapper-14 {
+  position: absolute;
+  width: 41px;
+  top: 86px;
+  left: 452px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.corpo-docente .text-wrapper-15 {
+  position: absolute;
+  width: 269px;
+  top: 86px;
+  left: 493px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.corpo-docente .line {
+  left: 770px;
+  position: absolute;
+  width: 1px;
+  height: 134px;
+  top: 0;
+  object-fit: cover;
+}
+
+.corpo-docente .text-wrapper-16 {
+  position: absolute;
+  top: 36px;
+  left: 46px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.corpo-docente .line-2 {
+  left: 405px;
+  position: absolute;
+  width: 1px;
+  height: 134px;
+  top: 0;
+  object-fit: cover;
+}
+
+.corpo-docente .text-wrapper-17 {
+  position: absolute;
+  width: 324px;
+  top: 60px;
+  left: 46px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.corpo-docente div-2 {
+    position: absolute;
+    width: 103px;
+    height: 40px;
+    top: 0;
+    left: 165px;
+}
+.sites {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.sites .overlap-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 920px;
+}
+
+.sites .overlap {
+  position: relative;
+  width: 1464px;
+  height: 1132px;
+  top: -108px;
+  left: -6px;
+}
+
+.sites .imagens-de-fundo {
+  position: absolute;
+  width: 1457px;
+  height: 671px;
+  top: 0;
+  left: 0;
+}
+
+.sites .overlap-group {
+  position: absolute;
+  width: 724px;
+  height: 563px;
+  top: 108px;
+  left: 722px;
+}
+
+.sites .foto {
+  position: absolute;
+  width: 724px;
+  height: 447px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.sites .pexels {
+  position: absolute;
+  width: 724px;
+  height: 394px;
+  top: 169px;
+  left: 0;
+  object-fit: cover;
+}
+
+.sites .div {
+  position: absolute;
+  width: 716px;
+  height: 436px;
+  top: 108px;
+  left: 6px;
+}
+
+.sites .gettyimages {
+  position: absolute;
+  width: 716px;
+  height: 302px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.sites .especialistas-brasil {
+  position: absolute;
+  width: 716px;
+  height: 267px;
+  top: 169px;
+  left: 0;
+  object-fit: cover;
+}
+
+.sites .rectangle {
+  position: absolute;
+  width: 1440px;
+  height: 585px;
+  top: 443px;
+  left: 6px;
+  background-color: #ffffff;
+}
+
+.sites .corpo-noticia {
+  position: absolute;
+  width: 976px;
+  height: 674px;
+  top: 458px;
+  left: 240px;
+}
+
+.sites .overlap-2 {
+  position: relative;
+  width: 972px;
+  height: 674px;
+  background-color: #a6a6a712;
+}
+
+.sites .enade-o-ENADE-exame {
+  position: absolute;
+  width: 929px;
+  top: 111px;
+  left: 21px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sites .text-wrapper {
+  font-weight: 700;
+}
+
+.sites .span {
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.sites .text-wrapper-2 {
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 12px;
+}
+
+.sites .text-wrapper-3 {
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 12px;
+  text-decoration: underline;
+}
+
+.sites .text-wrapper-4 {
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.sites .text-wrapper-5 {
+  position: absolute;
+  width: 250px;
+  top: 53px;
+  left: 0;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sites .footer {
+  position: absolute;
+  width: 1458px;
+  height: 134px;
+  top: 894px;
+  left: 6px;
+  background-color: transparent;
+}
+
+.sites .overlap-3 {
+  position: relative;
+  width: 1440px;
+  height: 134px;
+  background-color: #7d94d1;
+}
+
+.sites .p {
+  position: absolute;
+  width: 626px;
+  top: 87px;
+  left: 810px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sites .text-wrapper-6 {
+  position: absolute;
+  width: 200px;
+  top: 36px;
+  left: 810px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sites .text-wrapper-7 {
+  position: absolute;
+  width: 176px;
+  top: 61px;
+  left: 516px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sites .text-wrapper-8 {
+  position: absolute;
+  width: 64px;
+  top: 61px;
+  left: 452px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sites .text-wrapper-9 {
+  position: absolute;
+  width: 100px;
+  top: 34px;
+  left: 452px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sites .text-wrapper-10 {
+  position: absolute;
+  width: 41px;
+  top: 86px;
+  left: 452px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sites .text-wrapper-11 {
+  position: absolute;
+  width: 269px;
+  top: 86px;
+  left: 493px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sites .line {
+  left: 770px;
+  position: absolute;
+  width: 1px;
+  height: 134px;
+  top: 0;
+  object-fit: cover;
+}
+
+.sites .text-wrapper-12 {
+  position: absolute;
+  top: 36px;
+  left: 46px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.sites .img {
+  left: 405px;
+  position: absolute;
+  width: 1px;
+  height: 134px;
+  top: 0;
+  object-fit: cover;
+}
+
+.sites .text-wrapper-13 {
+  position: absolute;
+  width: 324px;
+  top: 60px;
+  left: 46px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sites .faeterj-rio-logo {
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  top: 187px;
+  left: 636px;
+  object-fit: cover;
+}
+
+.sites .frame {
+  position: absolute;
+  width: 1109px;
+  height: 40px;
+  top: 418px;
+  left: 171px;
+}
+
+.sites .overlap-4 {
+  position: relative;
+  width: 1440px;
+  height: 40px;
+  left: -165px;
+  background-color: #7d94d1;
+}
+
+.sites .pesquisa {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 1173px;
+}
+
+.sites .rectangle-2 {
+  position: absolute;
+  width: 101px;
+  height: 40px;
+  top: -2356px;
+  left: 555px;
+}
+
+.sites .text-wrapper-14 {
+  position: absolute;
+  top: 13px;
+  left: 7px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sites .servios {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 1013px;
+}
+
+.sites .text-wrapper-15 {
+  position: absolute;
+  top: 13px;
+  left: 26px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sites .ativ {
+  position: absolute;
+  width: 151px;
+  height: 40px;
+  top: 0;
+  left: 805px;
+}
+
+.sites .rectangle-3 {
+  position: absolute;
+  width: 149px;
+  height: 40px;
+  top: -2356px;
+  left: 555px;
+}
+
+.sites .text-wrapper-16 {
+  position: absolute;
+  top: 13px;
+  left: 14px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sites .estagio {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 645px;
+}
+
+.sites .text-wrapper-17 {
+  position: absolute;
+  top: 13px;
+  left: 24px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sites .graduao {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 485px;
+}
+
+.sites .text-wrapper-18 {
+  position: absolute;
+  top: 13px;
+  left: 19px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sites .institucional {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 325px;
+}
+
+.sites .text-wrapper-19 {
+  position: absolute;
+  top: 13px;
+  left: 16px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sites .pagina-inicials {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 165px;
+}
+
+.sites .text-wrapper-20 {
+  position: absolute;
+  top: 13px;
+  left: 13px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.publicaes {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.publicaes .overlap-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 920px;
+}
+
+.publicaes .overlap {
+  position: relative;
+  width: 1464px;
+  height: 1132px;
+  top: -108px;
+  left: -6px;
+}
+
+.publicaes .imagens-de-fundo {
+  position: absolute;
+  width: 1457px;
+  height: 671px;
+  top: 0;
+  left: 0;
+}
+
+.publicaes .overlap-group {
+  position: absolute;
+  width: 724px;
+  height: 563px;
+  top: 108px;
+  left: 722px;
+}
+
+.publicaes .foto {
+  position: absolute;
+  width: 724px;
+  height: 447px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.publicaes .pexels {
+  position: absolute;
+  width: 724px;
+  height: 394px;
+  top: 169px;
+  left: 0;
+  object-fit: cover;
+}
+
+.publicaes .div {
+  position: absolute;
+  width: 716px;
+  height: 436px;
+  top: 108px;
+  left: 6px;
+}
+
+.publicaes .gettyimages {
+  position: absolute;
+  width: 716px;
+  height: 302px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.publicaes .especialistas-brasil {
+  position: absolute;
+  width: 716px;
+  height: 267px;
+  top: 169px;
+  left: 0;
+  object-fit: cover;
+}
+
+.publicaes .rectangle {
+  position: absolute;
+  width: 1440px;
+  height: 585px;
+  top: 443px;
+  left: 6px;
+  background-color: #ffffff;
+}
+
+.publicaes .corpo-noticia {
+  position: absolute;
+  width: 976px;
+  height: 674px;
+  top: 458px;
+  left: 240px;
+}
+
+.publicaes .overlap-2 {
+  position: relative;
+  width: 972px;
+  height: 674px;
+  background-color: #a6a6a712;
+}
+
+.publicaes .ingresso-editais {
+  position: absolute;
+  width: 929px;
+  top: 111px;
+  left: 21px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 18px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.publicaes .text-wrapper {
+  font-weight: 700;
+  color: #000000;
+}
+
+.publicaes .span {
+  font-family: "Inter-Regular", Helvetica;
+  color: #000000;
+  font-size: 12px;
+}
+
+.publicaes .text-wrapper-2 {
+  font-weight: 700;
+  color: #ff0000;
+  font-size: 12px;
+}
+
+.publicaes .text-wrapper-3 {
+  font-family: "Inter-Regular", Helvetica;
+  color: #000000;
+  font-size: 12px;
+  text-decoration: underline;
+}
+
+.publicaes .text-wrapper-4 {
+  font-weight: 700;
+  color: #000000;
+  text-decoration: underline;
+}
+
+.publicaes .text-wrapper-5 {
+  position: absolute;
+  width: 250px;
+  top: 53px;
+  left: 0;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.publicaes .footer {
+  position: absolute;
+  width: 1458px;
+  height: 134px;
+  top: 894px;
+  left: 6px;
+  background-color: transparent;
+}
+
+.publicaes .overlap-3 {
+  position: relative;
+  width: 1440px;
+  height: 134px;
+  background-color: #7d94d1;
+}
+
+.publicaes .p {
+  position: absolute;
+  width: 626px;
+  top: 87px;
+  left: 810px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.publicaes .text-wrapper-6 {
+  position: absolute;
+  width: 200px;
+  top: 36px;
+  left: 810px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.publicaes .text-wrapper-7 {
+  position: absolute;
+  width: 176px;
+  top: 61px;
+  left: 516px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.publicaes .text-wrapper-8 {
+  position: absolute;
+  width: 64px;
+  top: 61px;
+  left: 452px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.publicaes .text-wrapper-9 {
+  position: absolute;
+  width: 100px;
+  top: 34px;
+  left: 452px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.publicaes .text-wrapper-10 {
+  position: absolute;
+  width: 41px;
+  top: 86px;
+  left: 452px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.publicaes .text-wrapper-11 {
+  position: absolute;
+  width: 269px;
+  top: 86px;
+  left: 493px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.publicaes .line {
+  left: 770px;
+  position: absolute;
+  width: 1px;
+  height: 134px;
+  top: 0;
+  object-fit: cover;
+}
+
+.publicaes .text-wrapper-12 {
+  position: absolute;
+  top: 36px;
+  left: 46px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.publicaes .img {
+  left: 405px;
+  position: absolute;
+  width: 1px;
+  height: 134px;
+  top: 0;
+  object-fit: cover;
+}
+
+.publicaes .text-wrapper-13 {
+  position: absolute;
+  width: 324px;
+  top: 60px;
+  left: 46px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.publicaes .faeterj-rio-logo {
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  top: 187px;
+  left: 636px;
+  object-fit: cover;
+}
+
+.publicaes .frame {
+  position: absolute;
+  width: 1109px;
+  height: 40px;
+  top: 418px;
+  left: 171px;
+}
+
+.publicaes .overlap-4 {
+  position: relative;
+  width: 1440px;
+  height: 40px;
+  left: -165px;
+  background-color: #7d94d1;
+}
+
+.publicaes .pesquisa {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 1173px;
+}
+
+.publicaes .rectangle-2 {
+  position: absolute;
+  width: 101px;
+  height: 40px;
+  top: -3416px;
+  left: 555px;
+}
+
+.publicaes .text-wrapper-14 {
+  position: absolute;
+  top: 13px;
+  left: 7px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.publicaes .servios {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 1013px;
+}
+
+.publicaes .text-wrapper-15 {
+  position: absolute;
+  top: 13px;
+  left: 26px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.publicaes .ativ {
+  position: absolute;
+  width: 151px;
+  height: 40px;
+  top: 0;
+  left: 805px;
+}
+
+.publicaes .rectangle-3 {
+  position: absolute;
+  width: 149px;
+  height: 40px;
+  top: -3416px;
+  left: 555px;
+}
+
+.publicaes .text-wrapper-16 {
+  position: absolute;
+  top: 13px;
+  left: 14px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.publicaes .estagio {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 645px;
+}
+
+.publicaes .text-wrapper-17 {
+  position: absolute;
+  top: 13px;
+  left: 24px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.publicaes .graduao {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 485px;
+}
+
+.publicaes .text-wrapper-18 {
+  position: absolute;
+  top: 13px;
+  left: 19px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.publicaes .institucional {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 325px;
+}
+
+.publicaes .text-wrapper-19 {
+  position: absolute;
+  top: 13px;
+  left: 16px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.publicaes .pagina-inicialp {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 165px;
+}
+
+.publicaes .text-wrapper-20 {
+  position: absolute;
+  top: 13px;
+  left: 13px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.clulas-de-competncia {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.clulas-de-competncia .overlap-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 1211px;
+}
+
+.clulas-de-competncia .overlap {
+  position: relative;
+  width: 1464px;
+  height: 1319px;
+  top: -108px;
+  left: -6px;
+}
+
+.clulas-de-competncia .imagens-de-fundo {
+  position: absolute;
+  width: 1457px;
+  height: 671px;
+  top: 0;
+  left: 0;
+}
+
+.clulas-de-competncia .overlap-group {
+  position: absolute;
+  width: 724px;
+  height: 563px;
+  top: 108px;
+  left: 722px;
+}
+
+.clulas-de-competncia .foto {
+  position: absolute;
+  width: 724px;
+  height: 447px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.clulas-de-competncia .pexels {
+  position: absolute;
+  width: 724px;
+  height: 394px;
+  top: 169px;
+  left: 0;
+  object-fit: cover;
+}
+
+.clulas-de-competncia .div {
+  position: absolute;
+  width: 716px;
+  height: 436px;
+  top: 108px;
+  left: 6px;
+}
+
+.clulas-de-competncia .gettyimages {
+  position: absolute;
+  width: 716px;
+  height: 302px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.clulas-de-competncia .especialistas-brasil {
+  position: absolute;
+  width: 716px;
+  height: 267px;
+  top: 169px;
+  left: 0;
+  object-fit: cover;
+}
+
+.clulas-de-competncia .rectangle {
+  position: absolute;
+  width: 1440px;
+  height: 585px;
+  top: 443px;
+  left: 6px;
+  background-color: #ffffff;
+}
+
+.clulas-de-competncia .corpo-noticia {
+  position: absolute;
+  width: 976px;
+  height: 861px;
+  top: 458px;
+  left: 240px;
+}
+
+.clulas-de-competncia .overlap-2 {
+  position: relative;
+  width: 972px;
+  height: 861px;
+  background-color: #a6a6a712;
+}
+
+.clulas-de-competncia .a-c-lula-de-compet {
+  position: absolute;
+  width: 929px;
+  top: 111px;
+  left: 21px;
+  font-family: "undefined-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.clulas-de-competncia .text-wrapper {
+  position: absolute;
+  width: 352px;
+  top: 53px;
+  left: 0;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.clulas-de-competncia .footer {
+  position: absolute;
+  width: 1458px;
+  height: 134px;
+  top: 1185px;
+  left: 6px;
+  background-color: transparent;
+}
+
+.clulas-de-competncia .overlap-3 {
+  position: relative;
+  width: 1440px;
+  height: 134px;
+  background-color: #7d94d1;
+}
+
+.clulas-de-competncia .p {
+  position: absolute;
+  width: 626px;
+  top: 87px;
+  left: 810px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.clulas-de-competncia .text-wrapper-2 {
+  position: absolute;
+  width: 200px;
+  top: 36px;
+  left: 810px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.clulas-de-competncia .text-wrapper-3 {
+  position: absolute;
+  width: 176px;
+  top: 61px;
+  left: 516px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.clulas-de-competncia .text-wrapper-4 {
+  position: absolute;
+  width: 64px;
+  top: 61px;
+  left: 452px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.clulas-de-competncia .text-wrapper-5 {
+  position: absolute;
+  width: 100px;
+  top: 34px;
+  left: 452px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.clulas-de-competncia .text-wrapper-6 {
+  position: absolute;
+  width: 41px;
+  top: 86px;
+  left: 452px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.clulas-de-competncia .text-wrapper-7 {
+  position: absolute;
+  width: 269px;
+  top: 86px;
+  left: 493px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.clulas-de-competncia .line {
+  left: 770px;
+  position: absolute;
+  width: 1px;
+  height: 134px;
+  top: 0;
+  object-fit: cover;
+}
+
+.clulas-de-competncia .text-wrapper-8 {
+  position: absolute;
+  top: 36px;
+  left: 46px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.clulas-de-competncia .img {
+  left: 405px;
+  position: absolute;
+  width: 1px;
+  height: 134px;
+  top: 0;
+  object-fit: cover;
+}
+
+.clulas-de-competncia .text-wrapper-9 {
+  position: absolute;
+  width: 324px;
+  top: 60px;
+  left: 46px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.clulas-de-competncia .faeterj-rio-logo {
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  top: 187px;
+  left: 636px;
+  object-fit: cover;
+}
+
+.clulas-de-competncia .frame {
+  position: absolute;
+  width: 1109px;
+  height: 40px;
+  top: 418px;
+  left: 171px;
+}
+
+.clulas-de-competncia .overlap-4 {
+  position: relative;
+  width: 1440px;
+  height: 40px;
+  left: -165px;
+  background-color: #7d94d1;
+}
+
+.clulas-de-competncia .pesquisa {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 1173px;
+}
+
+.clulas-de-competncia .rectangle-2 {
+  position: absolute;
+  width: 101px;
+  height: 40px;
+  top: -2568px;
+  left: -1080px;
+}
+
+.clulas-de-competncia .text-wrapper-10 {
+  position: absolute;
+  top: 13px;
+  left: 7px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.clulas-de-competncia .servios {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 1013px;
+}
+
+.clulas-de-competncia .text-wrapper-11 {
+  position: absolute;
+  top: 13px;
+  left: 26px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.clulas-de-competncia .ativ {
+  position: absolute;
+  width: 151px;
+  height: 40px;
+  top: 0;
+  left: 805px;
+}
+
+.clulas-de-competncia .rectangle-3 {
+  position: absolute;
+  width: 149px;
+  height: 40px;
+  top: -2568px;
+  left: -1080px;
+}
+
+.clulas-de-competncia .text-wrapper-12 {
+  position: absolute;
+  top: 13px;
+  left: 14px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.clulas-de-competncia .estagio {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 645px;
+}
+
+.clulas-de-competncia .text-wrapper-13 {
+  position: absolute;
+  top: 13px;
+  left: 24px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.clulas-de-competncia .graduao {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 485px;
+}
+
+.clulas-de-competncia .text-wrapper-14 {
+  position: absolute;
+  top: 13px;
+  left: 19px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.clulas-de-competncia .institucional {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 325px;
+}
+
+.clulas-de-competncia .text-wrapper-15 {
+  position: absolute;
+  top: 13px;
+  left: 16px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.clulas-de-competncia .pagina-inicialc {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 165px;
+}
+
+.clulas-de-competncia .text-wrapper-16 {
+  position: absolute;
+  top: 13px;
+  left: 13px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.ativ-comp {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.ativ-comp .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 1158px;
+  position: relative;
+}
+
+.ativ-comp .overlap {
+  position: absolute;
+  width: 1457px;
+  height: 1132px;
+  top: -108px;
+  left: -6px;
+}
+
+.ativ-comp .imagens-de-fundo {
+  position: absolute;
+  width: 1457px;
+  height: 671px;
+  top: 0;
+  left: 0;
+}
+
+.ativ-comp .overlap-group {
+  position: absolute;
+  width: 724px;
+  height: 563px;
+  top: 108px;
+  left: 722px;
+}
+
+.ativ-comp .foto {
+  position: absolute;
+  width: 724px;
+  height: 447px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.ativ-comp .pexels {
+  position: absolute;
+  width: 724px;
+  height: 394px;
+  top: 169px;
+  left: 0;
+  object-fit: cover;
+}
+
+.ativ-comp .overlap-2 {
+  position: absolute;
+  width: 716px;
+  height: 436px;
+  top: 108px;
+  left: 6px;
+}
+
+.ativ-comp .gettyimages {
+  position: absolute;
+  width: 716px;
+  height: 302px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.ativ-comp .especialistas-brasil {
+  position: absolute;
+  width: 716px;
+  height: 267px;
+  top: 169px;
+  left: 0;
+  object-fit: cover;
+}
+
+.ativ-comp .rectangle {
+  position: absolute;
+  width: 1440px;
+  height: 585px;
+  top: 443px;
+  left: 6px;
+  background-color: #ffffff;
+}
+
+.ativ-comp .corpo-noticia {
+  position: absolute;
+  width: 976px;
+  height: 674px;
+  top: 458px;
+  left: 240px;
+}
+
+.ativ-comp .overlap-3 {
+  position: relative;
+  width: 972px;
+  height: 674px;
+  background-color: #a6a6a712;
+}
+
+.ativ-comp .as-atividades {
+  position: absolute;
+  width: 929px;
+  top: 111px;
+  left: 21px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ativ-comp .text-wrapper {
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+}
+
+.ativ-comp .span {
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+}
+
+.ativ-comp .text-wrapper-2 {
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+}
+
+.ativ-comp .text-wrapper-3 {
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+}
+
+.ativ-comp .text-wrapper-4 {
+  font-family: "Inter-MediumItalic", Helvetica;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.ativ-comp .text-wrapper-5 {
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  text-decoration: underline;
+}
+
+.ativ-comp .text-wrapper-6 {
+  position: absolute;
+  width: 352px;
+  top: 53px;
+  left: 0;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ativ-comp .faeterj-rio-logo {
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  top: 187px;
+  left: 636px;
+  object-fit: cover;
+}
+
+.ativ-comp .frame {
+  position: absolute;
+  width: 1109px;
+  height: 40px;
+  top: 418px;
+  left: 171px;
+}
+
+.ativ-comp .overlap-4 {
+  position: relative;
+  width: 1440px;
+  height: 40px;
+  left: -165px;
+  background-color: #7d94d1;
+}
+
+.ativ-comp .pesquisa {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 1173px;
+}
+
+.ativ-comp .img {
+  position: absolute;
+  width: 101px;
+  height: 40px;
+  top: -1192px;
+  left: -1080px;
+}
+
+.ativ-comp .text-wrapper-7 {
+  position: absolute;
+  top: 13px;
+  left: 7px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ativ-comp .servios {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 1013px;
+}
+
+.ativ-comp .text-wrapper-8 {
+  position: absolute;
+  top: 13px;
+  left: 26px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ativ-comp .ativ {
+  position: absolute;
+  width: 151px;
+  height: 40px;
+  top: 0;
+  left: 805px;
+}
+
+.ativ-comp .rectangle-2 {
+  position: absolute;
+  width: 149px;
+  height: 40px;
+  top: -1192px;
+  left: -1080px;
+}
+
+.ativ-comp .text-wrapper-9 {
+  position: absolute;
+  top: 13px;
+  left: 14px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ativ-comp .estagio {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 645px;
+}
+
+.ativ-comp .text-wrapper-10 {
+  position: absolute;
+  top: 13px;
+  left: 24px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ativ-comp .graduao {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 485px;
+}
+
+.ativ-comp .text-wrapper-11 {
+  position: absolute;
+  top: 13px;
+  left: 19px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ativ-comp .institucional {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 325px;
+}
+
+.ativ-comp .text-wrapper-12 {
+  position: absolute;
+  top: 13px;
+  left: 16px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ativ-comp .pagina-iniciala {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 165px;
+}
+
+.ativ-comp .text-wrapper-13 {
+  position: absolute;
+  top: 13px;
+  left: 13px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ativ-comp .footer {
+  position: absolute;
+  width: 1458px;
+  height: 134px;
+  top: 1024px;
+  left: 0;
+  background-color: transparent;
+}
+
+.ativ-comp .overlap-5 {
+  position: relative;
+  width: 1440px;
+  height: 134px;
+  background-color: #7d94d1;
+}
+
+.ativ-comp .p {
+  position: absolute;
+  width: 626px;
+  top: 87px;
+  left: 810px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ativ-comp .text-wrapper-14 {
+  position: absolute;
+  width: 200px;
+  top: 36px;
+  left: 810px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ativ-comp .text-wrapper-15 {
+  position: absolute;
+  width: 176px;
+  top: 61px;
+  left: 516px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ativ-comp .text-wrapper-16 {
+  position: absolute;
+  width: 64px;
+  top: 61px;
+  left: 452px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ativ-comp .text-wrapper-17 {
+  position: absolute;
+  width: 100px;
+  top: 34px;
+  left: 452px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ativ-comp .text-wrapper-18 {
+  position: absolute;
+  width: 41px;
+  top: 86px;
+  left: 452px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ativ-comp .text-wrapper-19 {
+  position: absolute;
+  width: 269px;
+  top: 86px;
+  left: 493px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ativ-comp .line {
+  left: 770px;
+  position: absolute;
+  width: 1px;
+  height: 134px;
+  top: 0;
+  object-fit: cover;
+}
+
+.ativ-comp .text-wrapper-20 {
+  position: absolute;
+  top: 36px;
+  left: 46px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.ativ-comp .line-2 {
+  left: 405px;
+  position: absolute;
+  width: 1px;
+  height: 134px;
+  top: 0;
+  object-fit: cover;
+}
+
+.ativ-comp .text-wrapper-21 {
+  position: absolute;
+  width: 324px;
+  top: 60px;
+  left: 46px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.TCC {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.TCC .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 1158px;
+  position: relative;
+}
+
+.TCC .overlap {
+  position: absolute;
+  width: 1457px;
+  height: 1132px;
+  top: -108px;
+  left: -6px;
+}
+
+.TCC .imagens-de-fundo {
+  position: absolute;
+  width: 1457px;
+  height: 671px;
+  top: 0;
+  left: 0;
+}
+
+.TCC .overlap-group {
+  position: absolute;
+  width: 724px;
+  height: 563px;
+  top: 108px;
+  left: 722px;
+}
+
+.TCC .foto {
+  position: absolute;
+  width: 724px;
+  height: 447px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.TCC .pexels {
+  position: absolute;
+  width: 724px;
+  height: 394px;
+  top: 169px;
+  left: 0;
+  object-fit: cover;
+}
+
+.TCC .overlap-group-2 {
+  position: absolute;
+  width: 716px;
+  height: 436px;
+  top: 108px;
+  left: 6px;
+}
+
+.TCC .gettyimages {
+  position: absolute;
+  width: 716px;
+  height: 302px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.TCC .especialistas-brasil {
+  position: absolute;
+  width: 716px;
+  height: 267px;
+  top: 169px;
+  left: 0;
+  object-fit: cover;
+}
+
+.TCC .rectangle {
+  position: absolute;
+  width: 1440px;
+  height: 585px;
+  top: 443px;
+  left: 6px;
+  background-color: #ffffff;
+}
+
+.TCC .corpo-noticia {
+  position: absolute;
+  width: 976px;
+  height: 674px;
+  top: 458px;
+  left: 240px;
+}
+
+.TCC .overlap-2 {
+  position: relative;
+  width: 972px;
+  height: 674px;
+  background-color: #a6a6a712;
+}
+
+.TCC .o-trabalho-de {
+  position: absolute;
+  width: 929px;
+  top: 111px;
+  left: 21px;
+  font-family: "undefined-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.TCC .text-wrapper {
+  position: absolute;
+  width: 482px;
+  top: 53px;
+  left: 0;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.TCC .faeterj-rio-logo {
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  top: 187px;
+  left: 636px;
+  object-fit: cover;
+}
+
+.TCC .frame {
+  position: absolute;
+  width: 1109px;
+  height: 40px;
+  top: 418px;
+  left: 171px;
+}
+
+.TCC .overlap-3 {
+  position: relative;
+  width: 1440px;
+  height: 40px;
+  left: -165px;
+  background-color: #7d94d1;
+}
+
+.TCC .pesquisa {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 1173px;
+}
+
+.TCC .img {
+  position: absolute;
+  width: 101px;
+  height: 40px;
+  top: 184px;
+  left: -1080px;
+}
+
+.TCC .text-wrapper-2 {
+  position: absolute;
+  top: 13px;
+  left: 7px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.TCC .servios {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 1013px;
+}
+
+.TCC .text-wrapper-3 {
+  position: absolute;
+  top: 13px;
+  left: 26px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.TCC .ativ {
+  position: absolute;
+  width: 151px;
+  height: 40px;
+  top: 0;
+  left: 805px;
+}
+
+.TCC .rectangle-2 {
+  position: absolute;
+  width: 149px;
+  height: 40px;
+  top: 184px;
+  left: -1080px;
+}
+
+.TCC .text-wrapper-4 {
+  position: absolute;
+  top: 13px;
+  left: 14px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.TCC .estagio {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 645px;
+}
+
+.TCC .text-wrapper-5 {
+  position: absolute;
+  top: 13px;
+  left: 24px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.TCC .graduao {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 485px;
+}
+
+.TCC .text-wrapper-6 {
+  position: absolute;
+  top: 13px;
+  left: 19px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.TCC .institucional {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 325px;
+}
+
+.TCC .text-wrapper-7 {
+  position: absolute;
+  top: 13px;
+  left: 16px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.TCC .pagina-inicialt {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 165px;
+}
+
+.TCC .text-wrapper-8 {
+  position: absolute;
+  top: 13px;
+  left: 13px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.TCC .footer {
+  position: absolute;
+  width: 1458px;
+  height: 134px;
+  top: 1024px;
+  left: 0;
+  background-color: transparent;
+}
+
+.TCC .overlap-4 {
+  position: relative;
+  width: 1440px;
+  height: 134px;
+  background-color: #7d94d1;
+}
+
+.TCC .p {
+  position: absolute;
+  width: 626px;
+  top: 87px;
+  left: 810px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.TCC .text-wrapper-9 {
+  position: absolute;
+  width: 200px;
+  top: 36px;
+  left: 810px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.TCC .text-wrapper-10 {
+  position: absolute;
+  width: 176px;
+  top: 61px;
+  left: 516px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.TCC .text-wrapper-11 {
+  position: absolute;
+  width: 64px;
+  top: 61px;
+  left: 452px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.TCC .text-wrapper-12 {
+  position: absolute;
+  width: 100px;
+  top: 34px;
+  left: 452px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.TCC .text-wrapper-13 {
+  position: absolute;
+  width: 41px;
+  top: 86px;
+  left: 452px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.TCC .text-wrapper-14 {
+  position: absolute;
+  width: 269px;
+  top: 86px;
+  left: 493px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.TCC .line {
+  left: 770px;
+  position: absolute;
+  width: 1px;
+  height: 134px;
+  top: 0;
+  object-fit: cover;
+}
+
+.TCC .text-wrapper-15 {
+  position: absolute;
+  top: 36px;
+  left: 46px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.TCC .line-2 {
+  left: 405px;
+  position: absolute;
+  width: 1px;
+  height: 134px;
+  top: 0;
+  object-fit: cover;
+}
+
+.TCC .text-wrapper-16 {
+  position: absolute;
+  width: 324px;
+  top: 60px;
+  left: 46px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.PICT-projeto-de {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.PICT-projeto-de .overlap-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 1024px;
+}
+
+.PICT-projeto-de .overlap {
+  position: relative;
+  width: 1464px;
+  height: 1145px;
+  top: -108px;
+  left: -6px;
+}
+
+.PICT-projeto-de .imagens-de-fundo {
+  position: absolute;
+  width: 1457px;
+  height: 671px;
+  top: 0;
+  left: 0;
+}
+
+.PICT-projeto-de .overlap-group {
+  position: absolute;
+  width: 724px;
+  height: 563px;
+  top: 108px;
+  left: 722px;
+}
+
+.PICT-projeto-de .foto {
+  position: absolute;
+  width: 724px;
+  height: 447px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.PICT-projeto-de .pexels {
+  position: absolute;
+  width: 724px;
+  height: 394px;
+  top: 169px;
+  left: 0;
+  object-fit: cover;
+}
+
+.PICT-projeto-de .div {
+  position: absolute;
+  width: 716px;
+  height: 436px;
+  top: 108px;
+  left: 6px;
+}
+
+.PICT-projeto-de .gettyimages {
+  position: absolute;
+  width: 716px;
+  height: 302px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.PICT-projeto-de .especialistas-brasil {
+  position: absolute;
+  width: 716px;
+  height: 267px;
+  top: 169px;
+  left: 0;
+  object-fit: cover;
+}
+
+.PICT-projeto-de .rectangle {
+  position: absolute;
+  width: 1440px;
+  height: 585px;
+  top: 443px;
+  left: 6px;
+  background-color: #ffffff;
+}
+
+.PICT-projeto-de .corpo-noticia {
+  position: absolute;
+  width: 976px;
+  height: 540px;
+  top: 458px;
+  left: 240px;
+}
+
+.PICT-projeto-de .overlap-2 {
+  position: relative;
+  width: 972px;
+  height: 540px;
+  background-color: #a6a6a712;
+}
+
+.PICT-projeto-de .linha-de-pesquisa {
+  position: absolute;
+  width: 929px;
+  top: 96px;
+  left: 21px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PICT-projeto-de .text-wrapper {
+  font-family: "Inter-SemiBold Italic", Helvetica;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.PICT-projeto-de .span {
+  font-family: "Inter-Regular", Helvetica;
+}
+
+.PICT-projeto-de .text-wrapper-2 {
+  font-family: "Inter-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.PICT-projeto-de .text-wrapper-3 {
+  font-family: "Inter-Regular", Helvetica;
+  text-decoration: underline;
+}
+
+.PICT-projeto-de .p {
+  position: absolute;
+  width: 730px;
+  top: 45px;
+  left: 0;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PICT-projeto-de .footer {
+  position: absolute;
+  width: 1458px;
+  height: 147px;
+  top: 998px;
+  left: 6px;
+  background-color: transparent;
+}
+
+.PICT-projeto-de .overlap-3 {
+  position: relative;
+  width: 1440px;
+  height: 134px;
+  background-color: #7d94d1;
+}
+
+.PICT-projeto-de .text-wrapper-4 {
+  position: absolute;
+  width: 626px;
+  top: 87px;
+  left: 810px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PICT-projeto-de .text-wrapper-5 {
+  position: absolute;
+  width: 200px;
+  top: 36px;
+  left: 810px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PICT-projeto-de .text-wrapper-6 {
+  position: absolute;
+  width: 176px;
+  top: 61px;
+  left: 516px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PICT-projeto-de .text-wrapper-7 {
+  position: absolute;
+  width: 64px;
+  top: 61px;
+  left: 452px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PICT-projeto-de .text-wrapper-8 {
+  position: absolute;
+  width: 100px;
+  top: 34px;
+  left: 452px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PICT-projeto-de .text-wrapper-9 {
+  position: absolute;
+  width: 41px;
+  top: 86px;
+  left: 452px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PICT-projeto-de .text-wrapper-10 {
+  position: absolute;
+  width: 269px;
+  top: 86px;
+  left: 493px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PICT-projeto-de .line {
+  left: 770px;
+  position: absolute;
+  width: 1px;
+  height: 134px;
+  top: 0;
+  object-fit: cover;
+}
+
+.PICT-projeto-de .text-wrapper-11 {
+  position: absolute;
+  top: 36px;
+  left: 46px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.PICT-projeto-de .img {
+  left: 405px;
+  position: absolute;
+  width: 1px;
+  height: 134px;
+  top: 0;
+  object-fit: cover;
+}
+
+.PICT-projeto-de .text-wrapper-12 {
+  position: absolute;
+  width: 324px;
+  top: 60px;
+  left: 46px;
+  font-family: "Inter-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PICT-projeto-de .faeterj-rio-logo {
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  top: 187px;
+  left: 636px;
+  object-fit: cover;
+}
+
+.PICT-projeto-de .frame {
+  position: absolute;
+  width: 1109px;
+  height: 40px;
+  top: 418px;
+  left: 171px;
+}
+
+.PICT-projeto-de .overlap-4 {
+  position: relative;
+  width: 1440px;
+  height: 40px;
+  left: -165px;
+  background-color: #7d94d1;
+}
+
+.PICT-projeto-de .pesquisa {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 1173px;
+}
+
+.PICT-projeto-de .rectangle-2 {
+  position: absolute;
+  width: 101px;
+  height: 40px;
+  top: 184px;
+  left: -2715px;
+}
+
+.PICT-projeto-de .text-wrapper-13 {
+  position: absolute;
+  top: 13px;
+  left: 7px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PICT-projeto-de .servios {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 1013px;
+}
+
+.PICT-projeto-de .text-wrapper-14 {
+  position: absolute;
+  top: 13px;
+  left: 26px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PICT-projeto-de .ativ {
+  position: absolute;
+  width: 151px;
+  height: 40px;
+  top: 0;
+  left: 805px;
+}
+
+.PICT-projeto-de .rectangle-3 {
+  position: absolute;
+  width: 149px;
+  height: 40px;
+  top: 184px;
+  left: -2715px;
+}
+
+.PICT-projeto-de .text-wrapper-15 {
+  position: absolute;
+  top: 13px;
+  left: 14px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PICT-projeto-de .estagio {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 645px;
+}
+
+.PICT-projeto-de .text-wrapper-16 {
+  position: absolute;
+  top: 13px;
+  left: 24px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PICT-projeto-de .graduao {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 485px;
+}
+
+.PICT-projeto-de .text-wrapper-17 {
+  position: absolute;
+  top: 13px;
+  left: 19px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PICT-projeto-de .institucional {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 325px;
+}
+
+.PICT-projeto-de .text-wrapper-18 {
+  position: absolute;
+  top: 13px;
+  left: 16px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.PICT-projeto-de .pagina-inicialp {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  top: 0;
+  left: 165px;
+}
+
+.PICT-projeto-de .text-wrapper-19 {
+  position: absolute;
+  top: 13px;
+  left: 13px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
